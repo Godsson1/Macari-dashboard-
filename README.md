@@ -1,1 +1,1 @@
-<!-- trigger redeploy --># Macari-dashboard-
+trigger <!-- trigger redeploy --># Macari-dashboard-
